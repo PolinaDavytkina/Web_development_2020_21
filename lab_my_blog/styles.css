@@ -1,0 +1,28 @@
+h1
+{
+    color:rgb(169, 169, 226);
+    font-family:"Mistral"; 
+    font-size:25pt;
+}
+
+h2
+{
+    color:rgb(164, 164, 197);
+    font-family:"Mistral"; 
+    font-size:20pt;
+}
+
+ul
+{
+    color:rgb(128, 128, 170);
+    font-family:"Mistral"; 
+    font-size:16pt;
+
+}
+
+h3
+{
+    color: rgba(200, 200, 216, 0.651);
+    font-family:"Gabriola";
+    font-size:16pt;
+}
